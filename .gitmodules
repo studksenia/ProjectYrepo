@@ -1,0 +1,3 @@
+[submodule "fondation"]
+	path = fondation
+	url = https://github.com/kstudilina/FondationRepo.git
